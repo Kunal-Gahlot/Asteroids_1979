@@ -1,0 +1,8 @@
+requirements.txt
+get-pip.py
+venv/
+.git/
+./
+../
+__pycache__/
+
